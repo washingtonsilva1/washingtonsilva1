@@ -1,5 +1,8 @@
-### Hi there 👋
-
+## Olá! 👋
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=washingtonsilva1&theme=transparent&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washingtonsilva1&theme=transparent&langs_count=5&layout=compact"/>
+</div>
 <!--
 **washingtonsilva1/washingtonsilva1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
